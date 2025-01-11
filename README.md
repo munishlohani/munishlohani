@@ -1,4 +1,11 @@
 <!-- Header -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+
+
+</br>
+</br>
+</br>
+
 <h1 align="center"> Hi, I'm Munish! 👋 </h1>
 
 <!-- Side-by-Side Layout -->
@@ -16,9 +23,7 @@
 
 
 <!-- Octocat GIF -->
-<div style="flex-shrink: 0;">
-<img src="https://media0.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=6c09b9529ljams50p2f6iej6p1vmyqm57jvyp09zjhznn3qx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200" alt="GitHub Octocat GIF">
-</div>
+
 
 
 <br><br>
