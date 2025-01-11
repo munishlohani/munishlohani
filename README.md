@@ -37,7 +37,8 @@
 <tr>
 <td width="50%">
 <h3 align="center"><strong>Github Stats</strong></h3>
-<img src="https://github-readme-stats.vercel.app/api?username=munishlohani&show_icons=true&theme=cobalt" />
+<img src="https://github-readme-stats.vercel.app/api?username=munishlohani&show_icons=true&theme=cobalt&rank_icon=github" />
+
 </td>
 <td width="50%">
 <h3 align="center"><strong>Github Streaks</strong></h3>
