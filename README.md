@@ -17,9 +17,7 @@
 </div>
 
 <!-- Octocat GIF -->
-<div style="flex-shrink: 0;">
-<img src="https://media0.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=6c09b9529ljams50p2f6iej6p1vmyqm57jvyp09zjhznn3qx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200" alt="GitHub Octocat GIF">
-</div>
+
 
 </div>
 
