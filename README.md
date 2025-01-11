@@ -1,25 +1,25 @@
 <!-- Header -->
-<br>
 <h1 align="center"> Hi, I'm Munish! 👋 </h1>
 
-<!-- Flexbox-style Info and GIF Section -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<!-- Side-by-Side Layout -->
+<p align="left">
+  <!-- Info Section -->
+  <span>
+    <ul>
+      <li>💻 Currently working with <strong>LangChain</strong> and <strong>ReactJS</strong>.</li>
+      <li>🌱 Currently learning <strong>Flask</strong> and <strong>Machine Learning</strong>.</li>
+      <li>✍️ I write blogs. Check them at <a href="https://medium.com/me/stories/public">Medium</a>.</li>
+      <li>💡 Interested in <strong>Deep Learning</strong>.</li>
+      <li>🧑‍💻 Visit my website: <a href="https://munishlohani.com.np/">Munish Lohani</a>.</li>
+    </ul>
+  </span>
 
-<!-- Info Section -->
-<div style="flex: 1; padding-right: 20px;">
-<ul>
-<li>💻 Currently working with <strong>LangChain</strong> and <strong>ReactJS</strong>.</li>
-<li>🌱 Currently learning <strong>Flask</strong> and <strong>Machine Learning</strong>.</li>
-<li>✍️ I write blogs. Check them at <a href="https://medium.com/me/stories/public">Medium</a>.</li>
-<li>💡 Interested in <strong>Deep Learning</strong>.</li>
-<li>🧑‍💻 Visit my website: <a href="https://munishlohani.com.np/">Munish Lohani</a>.</li>
-</ul>
-</div>
 
 <!-- Octocat GIF -->
-
-
+<div style="flex-shrink: 0;">
+<img src="https://media0.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=6c09b9529ljams50p2f6iej6p1vmyqm57jvyp09zjhznn3qx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200" alt="GitHub Octocat GIF">
 </div>
+
 
 <br><br>
 
