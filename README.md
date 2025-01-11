@@ -17,7 +17,7 @@
       <li>🌱 Currently learning <strong>Flask</strong> and <strong>Machine Learning</strong>.</li>
       <li>✍️ I write blogs. Check them at <a href="https://medium.com/me/stories/public">Medium</a>.</li>
       <li>💡 Interested in <strong>Deep Learning</strong>.</li>
-      <li>🧑‍💻 Visit my website: <a href="https://munishlohani.com.np/">Munish Lohani</a>.</li>
+      <li>🧑‍💻 Visit my website: <a href="https://munishlohani.com.np/" target="_blank">Munish Lohani</a>.</li>
     </ul>
   </span>
 
