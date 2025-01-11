@@ -2,10 +2,11 @@
 <br>
 <h1 align="center"> Hi, I'm Munish! 👋 </h1>
 
-<table width="100%">
-<tr>
-<td width="70%">
+<!-- Flexbox-style Info and GIF Section -->
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
 <!-- Info Section -->
+<div style="flex: 1; padding-right: 20px;">
 <ul>
 <li>💻 Currently working with <strong>LangChain</strong> and <strong>ReactJS</strong>.</li>
 <li>🌱 Currently learning <strong>Flask</strong> and <strong>Machine Learning</strong>.</li>
@@ -13,13 +14,14 @@
 <li>💡 Interested in <strong>Deep Learning</strong>.</li>
 <li>🧑‍💻 Visit my website: <a href="https://munishlohani.com.np/">Munish Lohani</a>.</li>
 </ul>
-</td>
-<td width="30%" align="center">
+</div>
+
 <!-- Octocat GIF -->
+<div style="flex-shrink: 0;">
 <img src="https://media0.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=6c09b9529ljams50p2f6iej6p1vmyqm57jvyp09zjhznn3qx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200" alt="GitHub Octocat GIF">
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 <br><br>
 
