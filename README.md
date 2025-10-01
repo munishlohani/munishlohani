@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://techcrunch.com/wp-content/uploads/2015/08/safe_image.gif" width="100%" />
+<img src="https://i.pinimg.com/originals/9f/ab/6d/9fab6d1b46ee2cc3e1f4a0aec25815dc.gif" width="100%" />
 
 
 </br>
